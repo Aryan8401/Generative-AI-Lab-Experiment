@@ -50,5 +50,5 @@ These experiments collectively provide a comprehensive understanding of machine 
 
 
 ## Done by:
-- Name: Prateek Kumar Prasad
-- Roll No.: 2301420018
+- Name: Aryan Jaiswal
+- Roll No.: 2301420023
